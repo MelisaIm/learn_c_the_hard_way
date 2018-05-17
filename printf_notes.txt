@@ -1,0 +1,36 @@
+Formatted Print -- Extra Credit
+
+printf escape codes
+\a Alarm or Beep (system warning sound, inherited from teletypewriters/ tickers)
+\b Backspace 
+\f Form Feed (advance downward to the next page"
+\n New Line
+\r Carriage Return (return to the beginning of the current line)
+\t Tab (Horizontal)
+\v Vertical Tab
+\\ Backslash
+\' Single Quote
+\" Double Quote
+\? Question Mark
+\ooo Octal Number
+\xhh Hexadecimal Number
+\0 Null
+
+printf format sequences
+%c character
+%d decimal (integer, base 10)
+%e exponential floating point number
+%f floating point number
+%i integer (base 10)
+%o octal number (base 8)
+%s a string of characters
+%u unsigned decimal (integer) number
+%x number in hexadecimal (base 16)
+%% print a percent sign
+\% print a percent sign
+
+
+sources:
+http://web.mit.edu/10.001/Web/Course_Notes/c_Notes/tips_printf.html
+https://www.geeksforgeeks.org/escape-sequences-c/
+https://alvinalexander.com/programming/printf-format-cheat-sheet
